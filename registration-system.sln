@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "registration-system", "registration-system\", "{CBA9E25B-126D-4CD4-8435-0822518420D2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52333"
+		Debug.AspNetCompiler.PhysicalPath = "registration-system\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52333\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52333"
+		Release.AspNetCompiler.PhysicalPath = "registration-system\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52333\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52333"
+		SlnRelativePath = "registration-system\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA9E25B-126D-4CD4-8435-0822518420D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA9E25B-126D-4CD4-8435-0822518420D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88BD1B9-AC86-4ED5-BFE8-E1B62E61F888}
+	EndGlobalSection
+EndGlobal
